@@ -3,9 +3,10 @@
 - Using pwmn library https://github.com/TomasKazda/pxt-servo-pwm
 
 ## TODO list
-- [] Ovládání přes webovou aplikaci a bluetooth
-- [] Prodloužit kabely
-- [] Knihovna pro kreslení
-- [] Dokumentace
+- [ ] Ovládání přes webovou aplikaci a bluetooth
+- [ ] Prodloužit kabely
+- [ ] Knihovna pro kreslení
+- [ ] Dokumentace
 - [x] Návrh prototypu
-- [] Zapojení elektroniky
+- [ ] Zapojení elektroniky
+- [ ] Dostavění držáku na tužku (šroub a závit)
